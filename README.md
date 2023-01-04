@@ -10,17 +10,17 @@
 
 <div align="center">
   <h1>SKILLS</h1>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60"/> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" width="100"/> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60"/> &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60"/> &nbsp &nbsp &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80"/> &nbsp &nbsp &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60"/> &nbsp &nbsp &nbsp &nbsp
 </div>
   
 <br>
   
 <div align="center">
   <h1>ESTUDANDO NO MOMENTO</h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80" width="80"/> &nbsp &nbsp &nbsp &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80"/> &nbsp &nbsp &nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="100" width="100"/> &nbsp &nbsp &nbsp &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" height="100" width="100"/> &nbsp &nbsp &nbsp &nbsp
 </div>
 <br>
