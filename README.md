@@ -19,9 +19,10 @@
   
 <div align="center">
   <h1>ESTUDANDO NO MOMENTO</h1>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80" width="80"/> &nbsp &nbsp &nbsp &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80"/> &nbsp &nbsp &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80" width="80"/> &nbsp &nbsp &nbsp &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" height="100" width="100"/> &nbsp &nbsp &nbsp &nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="70" width="70"/> &nbsp &nbsp &nbsp &nbsp
 </div>
 <br>
 
