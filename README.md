@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/theusgab">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=color=DDDD&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusgab&layout=compact&langs_count=7&color=DDDD"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=color=DDDD&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusgab&layout=compact&langs_count=7&color=DDDD"/>
 </div>
 
 <br><br>
