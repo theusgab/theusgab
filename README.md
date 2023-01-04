@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/theusgab">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=color=DDDD&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusgab&layout=compact&langs_count=7&color=DDDD"/>
+  <img height="190em" width="500em" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=color=DDDD&include_all_commits=true&count_private=true"/>
+  <img height="190em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusgab&layout=compact&langs_count=7&color=DDDD"/>
 </div>
 
 <br><br>
@@ -27,8 +27,9 @@
 
 <div align="center">
   <h1>REDES SOCIAIS</h1>
-  <a href="https://www.linkedin.com/in/matheus-gabriel-4673a3178/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/mgabriell_47/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matheus-gabriel-4673a3178/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp
+  <a href="https://www.instagram.com/mgabriell_47/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp
+  <a href="mailto:matheusg319@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 
