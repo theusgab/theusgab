@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo!+;Sou+Matheus+Gabriel+Desenvolvedor+Back-End.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+;I'm+Matheus+Gabriel,+Back-End+Developer.)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/theusgab">
@@ -18,7 +18,7 @@
 <br>
   
 <div align="center">
-  <h1>ESTUDANDO NO MOMENTO</h1>
+  <h1>ESTUDYING AT THE MOMENT</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80"/> &nbsp &nbsp &nbsp &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80" width="80"/> &nbsp &nbsp &nbsp &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" height="100" width="100"/> &nbsp &nbsp &nbsp &nbsp
