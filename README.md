@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+;I'm+Matheus+Gabriel,+Back-End+Developer.)](https://git.io/typing-svg)
 
-<p><img align="right" widht="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=theusgab&show_icons=true&locale=en&layout=compact" alt="theusgab"</p>
-<p><img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=true&locale=en" alt="theusgab" 
-</p>
- 
+<img widht="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theusgab&show_icons=true&locale=en&layout=compact" alt="theusgab">
 
 - 🔭 I’m currently **Studying**
 
@@ -13,10 +10,12 @@
 
 - 📫 How to reach me **matheusg319@gmail.com**
 
+<img align="right" height="130" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=true&locale=en" alt="theusgab">
+
 - 📄 Know about my experiences **Finding my first job offer**
 
 - ⚡ Fun fact **I think I am Good boy** &nbsp; &nbsp; &nbsp;
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-gabriel-4673a3178/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-gabriel-4673a3178/?locale=en_us" height="30" width="40" /></a>
