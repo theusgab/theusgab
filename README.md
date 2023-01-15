@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python and tools**
 
-- 📫 How to reach me **matheusg319@gmail.com** &nbsp;
+- 📫 How to reach me **matheusg319@gmail.com**
 <img align="right" height="138px" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=true&locale=en" alt="theusgab"/>
 
 - 📄 Know about my experiences **Finding my first job offer**
