@@ -9,8 +9,7 @@
 - 💬 Ask me about **Python and tools**
 
 - 📫 How to reach me **matheusg319@gmail.com**
-
-<img align="right" height="138px" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=true&locale=en" alt="theusgab" />
+<img align="right" height="138px" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=true&locale=en" alt="theusgab"/>
 
 - 📄 Know about my experiences **Finding my first job offer**
 
@@ -19,7 +18,7 @@
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-gabriel-4673a3178/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-gabriel-4673a3178/?locale=en_us" height="30" width="40" /></a>
- <img align="right" height="138px" src="https://github-readme-streak-stats.herokuapp.com/?user=theusgab&" alt="theusgab" />
+ <img align="right" height="138px" src="https://github-readme-streak-stats.herokuapp.com/?user=theusgab&" alt="theusgab" /><br><br>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21011862/matheus-gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21011862/matheus-gabriel" height="30" width="40" /></a>
 <a href="https://fb.com/matheus gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matheus gabriel" height="30" width="40" /></a>
 <a href="https://instagram.com/mgabriell_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgabriell_47" height="30" width="40" /></a>
