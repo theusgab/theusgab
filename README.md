@@ -28,7 +28,7 @@
 
 <div display="flex" align="center">
 <p><img align="center" widht="100" height="195px" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=true&locale=en" alt="theusgab" 
-<p><img align="right" widht="100" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=theusgab&show_icons=true&locale=en&layout=compact" alt="theusgab" </p></p>
+<p><img align="right" widht="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=theusgab&show_icons=true&locale=en&layout=compact" alt="theusgab" </p></p>
 </div>
 
 
