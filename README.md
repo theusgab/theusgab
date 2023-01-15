@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+;I'm+Matheus+Gabriel,+Back-End+Developer.)](https://git.io/typing-svg)
 
-<img widht="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theusgab&show_icons=true&locale=en&layout=compact" alt="theusgab">
+<img widht="200" heigh="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theusgab&show_icons=true&locale=en&layout=compact" alt="theusgab">
 
 - 🔭 I’m currently **Studying**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **matheusg319@gmail.com**
 
-<img align="right" height="130" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=true&locale=en" alt="theusgab">
+<img align="right" widht="100" heigh="200" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=true&locale=en" alt="theusgab">
 
 - 📄 Know about my experiences **Finding my first job offer**
 
