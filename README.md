@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, libraries and database**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **Python and tools**
 
 - 📫 How to reach me **matheusg319@gmail.com**
 <img align="right" height="138px" src="https://github-readme-stats.vercel.app/api?username=theusgab&show_icons=true&locale=en" alt="theusgab"/>
